@@ -1,0 +1,10 @@
+{
+  "name": "Wii Sports Theme",
+  "description": "Wiisports main menu theme credit:https://www.youtube.com/watch?v=iH7baG5DTM0.",
+  "author": "DragonXD500",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
